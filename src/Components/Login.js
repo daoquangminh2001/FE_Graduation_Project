@@ -10,7 +10,7 @@ class Login extends Component{
         super(props)
         this.state = {
             "isLogin": false,
-            "userName": "H2Cl2"
+            "userName": "admin"
         }
     }
     validateLogin(username, password){

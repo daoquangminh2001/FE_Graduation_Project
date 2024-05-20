@@ -207,8 +207,8 @@ class Payment extends Component {
             <div className="page_right-content">
                 <div id="divToPrint" style={{ padding: 20 }}>
                     <div style={{ textAlign: 'center' }}>
-                        <b style={{ fontSize: 30 }}>KHÁCH SẠN H2CL2</b>
-                        <p style={{ fontSize: 20 }}>Địa chỉ: Thái Bình</p>
+                        <b style={{ fontSize: 30 }}>Khách sạn Hoàng Gia</b>
+                        <p style={{ fontSize: 20 }}>Địa chỉ: Hà Nội</p>
                         <p style={{ fontSize: 20 }}>Điện thoại: 0123456789</p>
                         <br />
                         <b style={{ fontSize: 25 }}>HÓA ĐƠN</b>
