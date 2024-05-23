@@ -283,7 +283,7 @@ h6 {
 /* Alerts */
 .alert-heading {
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: degular, Sans-serif;
   font-size: 20px;
 }
 
@@ -332,7 +332,7 @@ h6 {
 /* Breadcrumbs */
 .breadcrumb {
   font-size: 14px;
-  font-family: "Nunito", sans-serif;
+  font-family: degular, Sans-serif;
   color: #899bbd;
   font-weight: 600;
 }
@@ -404,7 +404,7 @@ h6 {
   font-size: 26px;
   font-weight: 700;
   color: #012970;
-  font-family: "Nunito", sans-serif;
+  font-family: degular, Sans-serif;
 }
 
 .header {
@@ -412,7 +412,7 @@ h6 {
   z-index: 997;
   height: 60px;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
-  background-color: #55d7ee;
+  background-color: #b5b7b7;
   padding-left: 20px;
   /* Toggle Sidebar Button */
   /* Search Bar */
@@ -1014,7 +1014,7 @@ h6 {
 }
 
 .iconslist .label {
-  font-family: var(--bs-font-monospace);
+  font-family: degular, Sans-serif;
   display: inline-block;
   width: 100%;
   overflow: auto;

@@ -120,3 +120,7 @@
 .lp-slideshow>.dot-container>.dot:not(.active):hover {
   cursor: pointer;
 }
+
+.caption-text {
+  font-family: degular, Sans-serif;
+}

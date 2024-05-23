@@ -72,8 +72,6 @@ export default class Slideshow extends React.Component {
 
   /*
   * Cập nhật chiều cao cho container khi thay đổi kích thước màn hình
-  * Trong phần CSS, mình để container có width = 100%,
-  * Nên dù kéo to hay thu nhỏ thì width vẫn bằng 100%
   * Nhưng chiều cao phải tính lại dựa vào width và tỉ lệ this.ratioWH
   */
   updateDimensions() {
